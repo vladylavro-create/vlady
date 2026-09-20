@@ -1,0 +1,7 @@
+.env
+secrets*
+__pycache__/
+*.tmp
+page.html
+preview.json
+.venv/
