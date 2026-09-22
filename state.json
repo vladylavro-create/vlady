@@ -494,6 +494,24 @@
       "checked": "2026-09-22",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altri anni di corso."
+    },
+    "2374e8bec421b6687564443842906ccf351f7bbec25d58d5c1f8c5b4b3e3e3fb": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20048%20USCITA%20DIDATTICA%20DEL%2029%20SETTEMBRE%202026.pdf",
+      "title": "CIRC 048 USCITA DIDATTICA DEL 29 SETTEMBRE 2026.pdf",
+      "date": "2026-09-22T00:00:00+00:00",
+      "sha256": "3ba90ec76dcd277ba20c50443d97fc6897c9c5f9c112193623bd8a2863be4dec",
+      "checked": "2026-09-22",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "4b52caba98d6181c9120b8070034b431ee9f6b7f16204983e7fd0ce3e8b872cb": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20047%20MAIL%20PER%20COMUNICAZIONI.pdf",
+      "title": "CIRC 047 MAIL PER COMUNICAZIONI.pdf",
+      "date": "2026-09-22T00:00:00+00:00",
+      "sha256": "73308b67d66c6bfffa1dfffc4293b4c4a6fabdbcad07f4478911abbf504f7c4a",
+      "checked": "2026-09-22",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
