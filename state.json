@@ -512,6 +512,24 @@
       "checked": "2026-09-23",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "0b4d96b9a9a43f9bff916e9ace1e7cb123a477799b084398e70c8eedab150db4": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20050%20CERTIFICAZIONI%20LINGUISTICHE%20-%20ESAMI%20E%20CORSI%20PREPARATORI.pdf",
+      "title": "CIRC 050 CERTIFICAZIONI LINGUISTICHE - ESAMI E CORSI PREPARATORI.pdf",
+      "date": "2026-09-23T00:00:00+00:00",
+      "sha256": "eee75ec79325840814ba645826c99b7114875a6243168e111eb1d0daf832e4e3",
+      "checked": "2026-09-23",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altri anni di corso."
+    },
+    "e23e9b9f2d29703f4fc2a87e203216e02f5d75752a322420555592959ad47aee": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20049%20PROGETTO%20CLASSI%205%5E%20-%20%20LA%20BELLEZZA%20SALVERA%20IL%20MONDO%20-%20CRACOVIA.pdf",
+      "title": "CIRC 049 PROGETTO CLASSI 5^ -  LA BELLEZZA SALVERA IL MONDO - CRACOVIA.pdf",
+      "date": "2026-09-23T00:00:00+00:00",
+      "sha256": "8ff42d614312f5909f3e271a6f104a3a3a7abfdec84f0ca4d1507593324fd947",
+      "checked": "2026-09-23",
+      "decision": "exclude",
+      "reason": "Destinata ad anni diversi dalla seconda."
     }
   },
   "initialized": true,
