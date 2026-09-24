@@ -530,6 +530,15 @@
       "checked": "2026-09-24",
       "decision": "exclude",
       "reason": "Destinata ad anni diversi dalla seconda."
+    },
+    "b97849a2f6774f84c48492252c7f145ec5059ef1e713e1963a5d674dcc0f98d2": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20051%20LABORATORIO%20DI%20TECNOLOGIE%20ELETTRONICHE.pdf",
+      "title": "CIRC 051 LABORATORIO DI TECNOLOGIE ELETTRONICHE.pdf",
+      "date": "2026-09-24T00:00:00+00:00",
+      "sha256": "7fff9e8d7b07f6dc03554133ff461693109c0d6fcb6816c35b721835138f6ca8",
+      "checked": "2026-09-24",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
