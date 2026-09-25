@@ -539,6 +539,33 @@
       "checked": "2026-09-25",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "bc1b0dd2250a31248a8bc08a8bd1f23a7f04add06143ffa0875c65b86d3c802f": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20054%20INCONTRO%20DIRIGENTE%20STUDENTI.pdf",
+      "title": "CIRC 054 INCONTRO DIRIGENTE STUDENTI.pdf",
+      "date": "2026-09-25T00:00:00+00:00",
+      "sha256": "07a189ce331e1515b95c174aa9dd522701ae779b3889ee36f5bfeaf8b2456bac",
+      "checked": "2026-09-25",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "4bba3b79372fc45e95d4facf94de25d4e5eac7c7fba2bf7822e33d6d35785579": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20053%20FORMAZIONE%20SICUREZZA%20STUDENTI.pdf",
+      "title": "CIRC 053 FORMAZIONE SICUREZZA STUDENTI.pdf",
+      "date": "2026-09-25T00:00:00+00:00",
+      "sha256": "255c1f89deef4ca402447f1b58ddf5953ff51e0c3101292ea9a0b8b49b9ed00d",
+      "checked": "2026-09-25",
+      "decision": "include",
+      "reason": "Il contenuto comprende le classi seconde o il biennio."
+    },
+    "a62443ea3450218670368dc875188226d34fc51219584e997ab53f379ff58e69": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20052%20SCIOPERO%202%20OTTOBRE%2026.pdf",
+      "title": "CIRC 052 SCIOPERO 2 OTTOBRE 26.pdf",
+      "date": "2026-09-25T00:00:00+00:00",
+      "sha256": "6431843b409ea45adcdab5cc21c0326a34c012db2283f224518a4d60e0f7b7a7",
+      "checked": "2026-09-25",
+      "decision": "include",
+      "reason": "Avviso di interesse generale per la vita scolastica."
     }
   },
   "initialized": true,
