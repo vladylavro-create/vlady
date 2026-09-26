@@ -566,6 +566,15 @@
       "checked": "2026-09-26",
       "decision": "include",
       "reason": "Avviso di interesse generale per la vita scolastica."
+    },
+    "3fbcd7b775973b158b6790bd13e8fb127daffce75f5fcf1304e2c8dd289e3ce4": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20055%20CALENDARIO%20PROVE%20GIUDIZIO%20SOSPESO%20AGOSTO%2027.pdf",
+      "title": "CIRC 055 CALENDARIO PROVE GIUDIZIO SOSPESO AGOSTO 27.pdf",
+      "date": "2026-09-26T00:00:00+00:00",
+      "sha256": "7ce76a4f0f9e2c025881e96543f52e035eda9ae2bef4bc43d77b53677220e41a",
+      "checked": "2026-09-26",
+      "decision": "include",
+      "reason": "Il contenuto comprende le classi seconde o il biennio."
     }
   },
   "initialized": true,
