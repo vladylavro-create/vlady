@@ -575,6 +575,24 @@
       "checked": "2026-09-29",
       "decision": "include",
       "reason": "Il contenuto comprende le classi seconde o il biennio."
+    },
+    "ce0429f3a22bd719e19da6f3326de057f17860d1d5e1f01a9cb3c2d669914e5d": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20057%20PROGETTO%20Hai%20bisogno%20di%20aiuto%20Chiedi%20pure.pdf",
+      "title": "CIRC 057 PROGETTO Hai bisogno di aiuto Chiedi pure.pdf",
+      "date": "2026-09-29T00:00:00+00:00",
+      "sha256": "b5e9bcfb6ac4b7173651cdc2e09c0a6cabe7ba686868cba5f775984811aaff4e",
+      "checked": "2026-09-29",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "de229d1b484b3ca0b40d0946b3df1f10464ec91947909e6f5fab29a2c5e16fea": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20056%20PERCORSO%20FORMATIVO%20SOMMINISTRAZIONE%20DI%20FARMACI%20E-O%20GESTIONE%20DI%20DISPOSITIVI%20MEDICI%20A%20SCUOLA.pdf",
+      "title": "CIRC 056 PERCORSO FORMATIVO SOMMINISTRAZIONE DI FARMACI E-O GESTIONE DI DISPOSITIVI MEDICI A SCUOLA.pdf",
+      "date": "2026-09-29T00:00:00+00:00",
+      "sha256": "4a7355b80402ce5c24b8c57a9722cd360e05bf31f441eadf44aab79352e96207",
+      "checked": "2026-09-29",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
     }
   },
   "initialized": true,
