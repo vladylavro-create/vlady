@@ -593,6 +593,24 @@
       "checked": "2026-09-30",
       "decision": "exclude",
       "reason": "Destinatari: personale della scuola."
+    },
+    "8cd426f5e11274de046b68b8b7563f7d4af146d7eda7a2d40339381a2631ece0": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20059%20ORARIO%20DEFINITIVO%20COMPLETO%20DAL%205%20OTTOBRE.pdf",
+      "title": "CIRC 059 ORARIO DEFINITIVO COMPLETO DAL 5 OTTOBRE.pdf",
+      "date": "2026-09-30T00:00:00+00:00",
+      "sha256": "db333bb943b9cd6c15461de3d1699b58aae024a8c185344db0493dbe8f206d48",
+      "checked": "2026-09-30",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "4a59fa5704c4537621cbd886a0e1a0d60dd164596d54fb110ff3d120ac0eb018": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20058%20COLLOQUI%20INDIVIDUALI%20A.S.%202026-2027%20ELENCO%20E%20ASSEGNAZIONE%20BOX%20.pdf",
+      "title": "CIRC 058 COLLOQUI INDIVIDUALI A.S. 2026-2027 ELENCO E ASSEGNAZIONE BOX .pdf",
+      "date": "2026-09-30T00:00:00+00:00",
+      "sha256": "5d6e85c0bc83d5a0b3035f4422d823034216b49f2a9e2e6f48d9ac5677fe6836",
+      "checked": "2026-09-30",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
     }
   },
   "initialized": true,
