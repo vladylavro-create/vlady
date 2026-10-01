@@ -611,6 +611,51 @@
       "checked": "2026-10-01",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "d091834c9f7131594d4d71bbdd6eb8c09f8e2ccb9a8b708dcea9758cbe914534": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20064%20GIOCHI%20DELLA%20MATEMATICA.pdf",
+      "title": "CIRC 064 GIOCHI DELLA MATEMATICA.pdf",
+      "date": "2026-10-01T00:00:00+00:00",
+      "sha256": "43ab8d0ce9075fd40d7266378f1e657dd4133113ef53cae20d23569d70998353",
+      "checked": "2026-10-01",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "0abe98abac7e44133145b4f37079fd5899a78063cfe847079e070207f0a4e236": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20063%20DIPARTIMENTO%20SCIENZE%20SPERIMENTALI.pdf",
+      "title": "CIRC 063 DIPARTIMENTO SCIENZE SPERIMENTALI.pdf",
+      "date": "2026-10-01T00:00:00+00:00",
+      "sha256": "806eb94f41851de609312f42094c792c324acb4241012b63434e766e78398239",
+      "checked": "2026-10-01",
+      "decision": "exclude",
+      "reason": "Comunicazione organizzativa per il personale."
+    },
+    "79e564b9927f1d7397ffd6ff0796c6ddffb7d6a77aca11f60460ae36e5099fd3": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20062%20ATTIVITA%20TEATRO%2026-27.pdf",
+      "title": "CIRC 062 ATTIVITA TEATRO 26-27.pdf",
+      "date": "2026-10-01T00:00:00+00:00",
+      "sha256": "f99bbdec10297f1a1ba7f9ec05b3866514cb48715ca113d412cbd175dd1f6b0f",
+      "checked": "2026-10-01",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "324a1ad1f3b694413361a7291cf08ea05b39887f9a1831a9898f07cf2635b188": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20061%20TRATTAMENTO%20QUIESCENZA.pdf",
+      "title": "CIRC 061 TRATTAMENTO QUIESCENZA.pdf",
+      "date": "2026-10-01T00:00:00+00:00",
+      "sha256": "bc99dc529333d1455e64be5b620627c391433cfc787d9a716d3bef9e6da57d31",
+      "checked": "2026-10-01",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "7a91f56276f48210e1e792e6d725095241a659c20da71c530c9f8574e6ce2c32": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20060%20COLLEGIO%20DOCENTI%206%20OTTOBRE.pdf",
+      "title": "CIRC 060 COLLEGIO DOCENTI 6 OTTOBRE.pdf",
+      "date": "2026-10-01T00:00:00+00:00",
+      "sha256": "8f73408fc190aeb7c8ac3597ac5d763bcff2b46e88b091c7a657bac61428ccc3",
+      "checked": "2026-10-01",
+      "decision": "exclude",
+      "reason": "Comunicazione organizzativa per il personale."
     }
   },
   "initialized": true,
