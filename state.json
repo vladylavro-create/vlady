@@ -656,6 +656,15 @@
       "checked": "2026-10-02",
       "decision": "exclude",
       "reason": "Comunicazione organizzativa per il personale."
+    },
+    "633efc5e033e6ecf922a5d684ebcc1db54d4a9f16eee196a4bd3839fa905f1ea": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20065%20PROCEDURA%20COMPILAZIONE%20PDP.pdf",
+      "title": "CIRC 065 PROCEDURA COMPILAZIONE PDP.pdf",
+      "date": "2026-10-02T00:00:00+00:00",
+      "sha256": "8b4b49d1e3e5f5ecb5a3b31d384406eb72e96ab7d6c9814e850e7ef1d5734c57",
+      "checked": "2026-10-02",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
     }
   },
   "initialized": true,
