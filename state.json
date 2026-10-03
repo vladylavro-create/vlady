@@ -665,6 +665,24 @@
       "checked": "2026-10-03",
       "decision": "exclude",
       "reason": "Destinatari: personale della scuola."
+    },
+    "71d480e90a2c711366502a341ea728239e056a397c6ace5e96e03edfcdbb9e41": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20067%20MODIFICA%20CALENDARIO%20PROGETTO%20Hai%20bisogno%20di%20aiuto%20Chiedi%20pure.pdf",
+      "title": "CIRC 067 MODIFICA CALENDARIO PROGETTO Hai bisogno di aiuto Chiedi pure.pdf",
+      "date": "2026-10-03T00:00:00+00:00",
+      "sha256": "c6c634064ed90a9e84ca6c1c11e76fb61ea5f4ad4ee06b3cbf9b0c9e6a0d1818",
+      "checked": "2026-10-03",
+      "decision": "include",
+      "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
+    },
+    "8e7b25406411e823ee1f6e50ec2923bb7cde538e8428c47be007e715edf705a5": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20066%20REGISTRAZIONE%20ATTIVITA%20Hai%20bisogno%20di%20aiuto%20Chiedi%20pure.pdf",
+      "title": "CIRC 066 REGISTRAZIONE ATTIVITA Hai bisogno di aiuto Chiedi pure.pdf",
+      "date": "2026-10-03T00:00:00+00:00",
+      "sha256": "b66c23fbe808a429313cbc33e084774421f5567a5b57b2a2340860160ebde0b9",
+      "checked": "2026-10-03",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
     }
   },
   "initialized": true,
