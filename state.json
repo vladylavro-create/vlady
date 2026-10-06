@@ -683,6 +683,15 @@
       "checked": "2026-10-06",
       "decision": "exclude",
       "reason": "Destinatari: personale della scuola."
+    },
+    "40179667e739ca5e6ba2e11e641c78141b5c9ab68cf01845979dabc0587af60e": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20068%20OPEN%20DAY.pdf",
+      "title": "CIRC 068 OPEN DAY.pdf",
+      "date": "2026-10-06T00:00:00+00:00",
+      "sha256": "3ffc79746af8769929dac230230db43b193bcfe90b7bab2d27b48e2678c90c0f",
+      "checked": "2026-10-06",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
