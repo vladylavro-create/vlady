@@ -692,6 +692,60 @@
       "checked": "2026-10-07",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "a46f16c67276b8b7fe7d9153b7524f39702db8cc06ad1ceb9f607a45af5241c3": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20074%20CONSIGLI%20DI%20CLASSE%20DI%20OTTOBRE%20-%20DIURNO.pdf",
+      "title": "CIRC 074 CONSIGLI DI CLASSE DI OTTOBRE - DIURNO.pdf",
+      "date": "2026-10-07T00:00:00+00:00",
+      "sha256": "ada2ac2e85b35177bea9d610e1275ba55210c706959e2f35a01f386daaeca0b3",
+      "checked": "2026-10-07",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "b3b71b73ccf14a268ee086a90df1de69a663211d8a4a602f2071c7455c95d807": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20073%20COMUNICAZIONI%20ASSEMBLEE%20SINDACALI.pdf",
+      "title": "CIRC 073 COMUNICAZIONI ASSEMBLEE SINDACALI.pdf",
+      "date": "2026-10-07T00:00:00+00:00",
+      "sha256": "d2cb8091de03a4a33dd5f39f48dc9ada32bed21cc59a2fcc52eb93e4146c245c",
+      "checked": "2026-10-07",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "73c6c01df25dc9b72dd8d964176212c5b47c26db6a284e6eadbf7cd3c9907c7c": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20072%20MODIFICA%20PROCEDURA%20COMPILAZIONE%20PDP.pdf",
+      "title": "CIRC 072 MODIFICA PROCEDURA COMPILAZIONE PDP.pdf",
+      "date": "2026-10-07T00:00:00+00:00",
+      "sha256": "f423d842eccb3163ac7e53f19bcf824b1f1982584ac65df5dcaa970371e49712",
+      "checked": "2026-10-07",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "d6cda574dbe3323c3dfc37e9b9464a88752b74cad5e730478739fd19e12b8fba": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20071%20TUTOR%20ORIENTAMENTO%20-%20ORIENTATORE.pdf",
+      "title": "CIRC 071 TUTOR ORIENTAMENTO - ORIENTATORE.pdf",
+      "date": "2026-10-07T00:00:00+00:00",
+      "sha256": "24120c7479436e8347d3f8428b81da5c6107af82da9b0a2afe1bfe5620aeb962",
+      "checked": "2026-10-07",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "51a4e994f7d58fbc0b65e7d368a3fbe032f07f6690201a7ae87c570cd5660338": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20070%20FUNZIONI%20STRUMENTALI%20A.S.%202026-2027.pdf",
+      "title": "CIRC 070 FUNZIONI STRUMENTALI A.S. 2026-2027.pdf",
+      "date": "2026-10-07T00:00:00+00:00",
+      "sha256": "da868ce00cb9d7523996061ffc25e4fb7e6c363c06b0407b938ea1fb53dc9126",
+      "checked": "2026-10-07",
+      "decision": "exclude",
+      "reason": "Comunicazione organizzativa per il personale."
+    },
+    "9fe132dab1f1c4a1a508c5d19ba123604fbf90cec80306c93233ff2ad32398eb": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20069%20OLIMPIADI%20DI%20INFORMATICA%20INDIVIDUALI%20E%20A%20SQUADRE%20A.S.%202026-2027.pdf",
+      "title": "CIRC 069 OLIMPIADI DI INFORMATICA INDIVIDUALI E A SQUADRE A.S. 2026-2027.pdf",
+      "date": "2026-10-07T00:00:00+00:00",
+      "sha256": "2575681b83d21f5cc86356febe92cf7c0c7e69e5f6fcc5a8e474fdf87ff6dfb4",
+      "checked": "2026-10-07",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
     }
   },
   "initialized": true,
