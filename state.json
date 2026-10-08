@@ -746,6 +746,15 @@
       "checked": "2026-10-08",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "99a4a1fa4dabf816a0c3db394e6f170a45069eab9242502987663e4232638620": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20075%20CORSO%20IA%20E%20MACHINE%20LEARNING%20PER%20STUDENTI.pdf",
+      "title": "CIRC 075 CORSO IA E MACHINE LEARNING PER STUDENTI.pdf",
+      "date": "2026-10-08T00:00:00+00:00",
+      "sha256": "b0268aa4f728191d60b87b6e2ea02f971d61f48e67c0a666f5b1fda2acc0693f",
+      "checked": "2026-10-08",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
     }
   },
   "initialized": true,
