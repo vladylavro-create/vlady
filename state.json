@@ -773,6 +773,51 @@
       "checked": "2026-10-10",
       "decision": "exclude",
       "reason": "Destinata ai corsi serali."
+    },
+    "93597c1e062d1a4906a95032095036a301467d93fc084896580981e32c7a52ae": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20082%20ELEZIONE%20SURROGA%20CONSULTA%20PROVINCIALE%20DEGLI%20STUDENTI.pdf",
+      "title": "CIRC 082 ELEZIONE SURROGA CONSULTA PROVINCIALE DEGLI STUDENTI.pdf",
+      "date": "2026-10-10T00:00:00+00:00",
+      "sha256": "c9d967b31873ffd359f2fa25af8b9d66905abc67146ac47dfbcad7e8b6118acb",
+      "checked": "2026-10-10",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "5affa8f4d60ca831d525e7a1116043bc2b0f0b9bbbd4fd0b43e288f85fbae65a": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20081%20ELEZIONE%20GENITORI%20RAPPRESENTANTI%20DI%20CLASSE.pdf",
+      "title": "CIRC 081 ELEZIONE GENITORI RAPPRESENTANTI DI CLASSE.pdf",
+      "date": "2026-10-10T00:00:00+00:00",
+      "sha256": "b537bb628eec290738daedf13861b16a4dc3585c012df8522228a9f929270416",
+      "checked": "2026-10-10",
+      "decision": "include",
+      "reason": "La 2FI è citata nel contenuto."
+    },
+    "81051d6ee69500291c2d5d53e3ec795242e085688ecd9beacb4c1284363892d8": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20080%20ELEZIONE%20STUDENTI%20RAPPRESENTANTI%20DI%20CLASSE.pdf",
+      "title": "CIRC 080 ELEZIONE STUDENTI RAPPRESENTANTI DI CLASSE.pdf",
+      "date": "2026-10-10T00:00:00+00:00",
+      "sha256": "c0bd17b048c73cb7e2209d071d7b44b56d7d6f223d0b79b9c63e99729701c37f",
+      "checked": "2026-10-10",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altri anni di corso."
+    },
+    "928a2551b9c77cd19c7e28f43c533ba3848a4cf9932098e1b559e0607d2ddc51": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20079%20INDICAZIONI%20%20ORGANIZZAZIONE%20PROVE%20DI%20VERIFICA.pdf",
+      "title": "CIRC 079 INDICAZIONI  ORGANIZZAZIONE PROVE DI VERIFICA.pdf",
+      "date": "2026-10-10T00:00:00+00:00",
+      "sha256": "8e57bb6cde252fdb62161d2267aa6d72439e79a92243c6f900d541d7de3f2406",
+      "checked": "2026-10-10",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "790e526e083a4c8ee33e039e2f9408f2999a87e03cf747b4886affa4f05d2254": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20078%20SCIOPERO%2016%20OTTOBRE%2026.pdf",
+      "title": "CIRC 078 SCIOPERO 16 OTTOBRE 26.pdf",
+      "date": "2026-10-10T00:00:00+00:00",
+      "sha256": "dc424986ba16c8bbbe94fe55641d87b28cb582c5370c43a0583772844e3f772c",
+      "checked": "2026-10-10",
+      "decision": "include",
+      "reason": "Il contenuto comprende le classi seconde o il biennio."
     }
   },
   "initialized": true,
