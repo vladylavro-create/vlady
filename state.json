@@ -755,6 +755,24 @@
       "checked": "2026-10-10",
       "decision": "exclude",
       "reason": "Destinatari: personale della scuola."
+    },
+    "b3aca50cc1ba2a635f0f1a10dabe6f2de033cdf66a2c45cd452a503f19c7499b": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20077%20DOMANI%20LAVORO%202026%20-%205AA%205AEN%205AET.pdf",
+      "title": "CIRC 077 DOMANI LAVORO 2026 - 5AA 5AEN 5AET.pdf",
+      "date": "2026-10-10T00:00:00+00:00",
+      "sha256": "a9f905385c6cf010e604376ac95974bca6b1853cbb6b13d1c32d66d1a4944551",
+      "checked": "2026-10-10",
+      "decision": "exclude",
+      "reason": "Destinata ad altre classi specifiche."
+    },
+    "7fa420cc50c8d8f594faba3f649b4e96cf4acf0d0f3ba25fba469a59401addb5": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20076%20CONSIGLI%20DI%20CLASSE%20OTTOBRE%20PERCORSI%20SECONDO%20LIVELLO%20-%20EX%20SERALE.pdf",
+      "title": "CIRC 076 CONSIGLI DI CLASSE OTTOBRE PERCORSI SECONDO LIVELLO - EX SERALE.pdf",
+      "date": "2026-10-10T00:00:00+00:00",
+      "sha256": "ecb505092846028037bf6f5be700abff5d7b642a5288e34a3e95f35ebb871995",
+      "checked": "2026-10-10",
+      "decision": "exclude",
+      "reason": "Destinata ai corsi serali."
     }
   },
   "initialized": true,
