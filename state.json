@@ -818,6 +818,15 @@
       "checked": "2026-10-12",
       "decision": "include",
       "reason": "Il contenuto comprende le classi seconde o il biennio."
+    },
+    "9cf80d118614b3d6eeb26ccd915ed37d464bc3b9e7739e22a7bc4014f6a5e9b7": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20083%20CORSO%20LABORATORI%20AI%20PER%20LA%20LINGUA%20MADRE.pdf",
+      "title": "CIRC 083 CORSO LABORATORI AI PER LA LINGUA MADRE.pdf",
+      "date": "2026-10-12T00:00:00+00:00",
+      "sha256": "acd9eeb2b48a7b3b51c7c6c1e1c9c060ad7c4f78f1c9d51c972c068458878df5",
+      "checked": "2026-10-12",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
     }
   },
   "initialized": true,
