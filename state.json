@@ -827,6 +827,15 @@
       "checked": "2026-10-13",
       "decision": "exclude",
       "reason": "Destinatari: personale della scuola."
+    },
+    "11cb5020dfbf4b292d4cd865085d6512d457aaa697b5a5db1ec0fae0f1390584": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20084%20ELEZIONE%20CONSIGLIO%20DISTITUTO%20COMPONENTE%20STUDENTI.pdf",
+      "title": "CIRC 084 ELEZIONE CONSIGLIO DISTITUTO COMPONENTE STUDENTI.pdf",
+      "date": "2026-10-13T00:00:00+00:00",
+      "sha256": "de5b00d073af03557598eca811e97476c77f188ecd832ae92ddd98d6aad6a083",
+      "checked": "2026-10-13",
+      "decision": "include",
+      "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
     }
   },
   "initialized": true,
