@@ -836,6 +836,15 @@
       "checked": "2026-10-14",
       "decision": "include",
       "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
+    },
+    "1f4ae0458bad503688011ef4c730e6b9a1bcaa82c12cbf34ede61f3a01569136": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20085%20MODIFICA%20CONSIGLI%20DI%20CLASSE%20DEL%2015%20OTTOBRE.pdf",
+      "title": "CIRC 085 MODIFICA CONSIGLI DI CLASSE DEL 15 OTTOBRE.pdf",
+      "date": "2026-10-14T00:00:00+00:00",
+      "sha256": "213018296bf81ca7242379e5f08b01e80c0e994bf9ddfeb8d328d8b976069815",
+      "checked": "2026-10-14",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
     }
   },
   "initialized": true,
