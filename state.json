@@ -845,6 +845,33 @@
       "checked": "2026-10-15",
       "decision": "exclude",
       "reason": "Destinatari: personale della scuola."
+    },
+    "ad2f83c7e7f6a6f0b29a8c26015a403060cbffea0f0c0be565c69302f9cdddf3": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20088%20MODALITA%20RICHIESTA%20ASSEMBLEE%20DI%20CLASSE%20A.S.%202026-2027.pdf",
+      "title": "CIRC 088 MODALITA RICHIESTA ASSEMBLEE DI CLASSE A.S. 2026-2027.pdf",
+      "date": "2026-10-15T00:00:00+00:00",
+      "sha256": "f56c3a4a84950bcb13263bf0884cf3fff612b6cd345d9be11744964b52735a11",
+      "checked": "2026-10-15",
+      "decision": "include",
+      "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
+    },
+    "e48903d42f13f4426e2ef1347a7397910ea8f4edac92bf4c7b173083af269526": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20087%20ELEZIONE%20RAPPRESENTANTI%20DI%20CLASSE%20-%20PERCORSI%20DI%20SECONDO%20LIVELLO%20%28EX%20SERALE%29.pdf",
+      "title": "CIRC 087 ELEZIONE RAPPRESENTANTI DI CLASSE - PERCORSI DI SECONDO LIVELLO (EX SERALE).pdf",
+      "date": "2026-10-15T00:00:00+00:00",
+      "sha256": "3629b18c7a212de7b1c42637571e4a42b97c3e2fb0c19a56a0a4aa423dfbba63",
+      "checked": "2026-10-15",
+      "decision": "exclude",
+      "reason": "Destinata ai corsi serali."
+    },
+    "314c10465fdf97a2a9a79681eb16d4216581ed8e1b292b14b6839592e96fd860": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20086%20CORSO%20AI%20LABORATORI%20AI%20PER%20SCIENZE-INTEGRATE%20AI%20PER%20LA%20MECCANICA%20E%20LA%20CHIMICA.pdf",
+      "title": "CIRC 086 CORSO AI LABORATORI AI PER SCIENZE-INTEGRATE AI PER LA MECCANICA E LA CHIMICA.pdf",
+      "date": "2026-10-15T00:00:00+00:00",
+      "sha256": "0842ac973403121cf90ac64209e0e8826f69b2161d9ce2d3cb628502f7381243",
+      "checked": "2026-10-15",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
     }
   },
   "initialized": true,
