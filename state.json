@@ -890,6 +890,60 @@
       "checked": "2026-10-16",
       "decision": "exclude",
       "reason": "Destinatari: personale della scuola."
+    },
+    "40339d640c1df7c47847eac368ba9f5eb4afd589f495b16e4da0ec6315abce9f": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20095%20SECONDA%20MODIFICA%20CALENDARIO%20PROGETTO%20Hai%20bisogno%20di%20aiuto%20Chiedi%20pure.pdf",
+      "title": "CIRC 095 SECONDA MODIFICA CALENDARIO PROGETTO Hai bisogno di aiuto Chiedi pure.pdf",
+      "date": "2026-10-16T00:00:00+00:00",
+      "sha256": "371159f56c222b084ddbc07137b42f7ce3b4ac5c2449f8cc0d1b519faa19a8ff",
+      "checked": "2026-10-16",
+      "decision": "include",
+      "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
+    },
+    "de18798a7b684a2714730440a4b723cbfb9914cfe8f02bd6f0464c735ecb337d": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20094%20VIAGGIO%20A%20CRACOVIA%20-%20PARTECIPANTI.pdf",
+      "title": "CIRC 094 VIAGGIO A CRACOVIA - PARTECIPANTI.pdf",
+      "date": "2026-10-16T00:00:00+00:00",
+      "sha256": "94bcf28572689988f407d4ea21c11a9040e868a9560ffbc6ff39d46984ec79e4",
+      "checked": "2026-10-16",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "817aa561b490cf342a6128b5d273423982ece326b41f5455214d5f0f36a18dd8": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20093%20RICORDO%20STUDENTE%20TANFOGLIO%20LUCA.pdf",
+      "title": "CIRC 093 RICORDO STUDENTE TANFOGLIO LUCA.pdf",
+      "date": "2026-10-16T00:00:00+00:00",
+      "sha256": "ba98e494d622deb1d80bcc1d26a375f883ba949f42270477f5c0a232cc94c102",
+      "checked": "2026-10-16",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "5362669e0e418732e23c0a586d96f87575975f8102063b8da7f52eedae98bc3f": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20092%20RINGRAZIAMENTI.pdf",
+      "title": "CIRC 092 RINGRAZIAMENTI.pdf",
+      "date": "2026-10-16T00:00:00+00:00",
+      "sha256": "41af23e7937c9192f2e528b266c9235cb88709ac6cd8d83234c8da0dc1a99400",
+      "checked": "2026-10-16",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "26e8e1e5b150c8e1ec1d27c1117c0311bd0b2fdfd4cf2e89bee50e4680bcbc66": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20091%20CORSO%20AI%20LABORATORI%20AI%20NELLA%20SCUOLA%20%E2%80%93%20DISCIPLINE%20VARIE.pdf",
+      "title": "CIRC 091 CORSO AI LABORATORI AI NELLA SCUOLA – DISCIPLINE VARIE.pdf",
+      "date": "2026-10-16T00:00:00+00:00",
+      "sha256": "2f3ff96c412600dcfa97d73bb0a4e368a217a5f6c80350f63019c98abebbb3f3",
+      "checked": "2026-10-16",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "fb18f7dc0517d59e2bd2acd6baf28ff98d2f56cb240db484b99f205a8b59d843": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20091%20CORSO%20AI%20LABORATORI%20AI%20NELLA%20SCUOLA%20-%20DISCIPLINE%20VARIE.pdf",
+      "title": "CIRC 091 CORSO AI LABORATORI AI NELLA SCUOLA - DISCIPLINE VARIE.pdf",
+      "date": "2026-10-16T00:00:00+00:00",
+      "sha256": "cb5a05e5fde0f7c475a54b1a38b227dc2b0e362ec196e3818e686603e8e9893f",
+      "checked": "2026-10-16",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
     }
   },
   "initialized": true,
