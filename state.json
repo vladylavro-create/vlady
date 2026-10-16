@@ -872,6 +872,24 @@
       "checked": "2026-10-16",
       "decision": "exclude",
       "reason": "Destinatari: personale della scuola."
+    },
+    "5f0bdfa4e2329a1057b830fc23eaef1e8f8474651f7a3a3a015f3c8f7b0346bd": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20090%20IMPEGNI%20NON%20DI%20INSEGNAMENTO%20PER%20DOCENTI%20PART-TIME.pdf",
+      "title": "CIRC 090 IMPEGNI NON DI INSEGNAMENTO PER DOCENTI PART-TIME.pdf",
+      "date": "2026-10-16T00:00:00+00:00",
+      "sha256": "801fc63773ef80dcb1c1499becac3d3b8d41cca491b5baebce9669d644dbcc65",
+      "checked": "2026-10-16",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "19745a1f0f2300c1decda05a07afa33acd85673e48eeb579a6ef571966fb125b": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20089%20CORSO%20AI%20LABORATORI%20AI%20PER%20LE%20SCIENZE%20INFORMATICHE.pdf",
+      "title": "CIRC 089 CORSO AI LABORATORI AI PER LE SCIENZE INFORMATICHE.pdf",
+      "date": "2026-10-16T00:00:00+00:00",
+      "sha256": "4ed2c4ed28dea01be667426e4b59f6ec7189a7bbc7b1fd1d7b791db9c7017d09",
+      "checked": "2026-10-16",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
     }
   },
   "initialized": true,
