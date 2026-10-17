@@ -944,6 +944,15 @@
       "checked": "2026-10-17",
       "decision": "exclude",
       "reason": "Destinatari: personale della scuola."
+    },
+    "161ce3b89acdcef32a3380655b5c75e1195599e901922bff7d9cf2019322fba4": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20096%20RICHIESTA%20PROGETTI%20POF.pdf",
+      "title": "CIRC 096 RICHIESTA PROGETTI POF.pdf",
+      "date": "2026-10-17T00:00:00+00:00",
+      "sha256": "b97c338addb9ee8c47715a6b9acc495b054de09b6bfe0e582d9e3efdd797868c",
+      "checked": "2026-10-17",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
