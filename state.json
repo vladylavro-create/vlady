@@ -953,6 +953,15 @@
       "checked": "2026-10-19",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "db2bd5d51698e6954014c45140076b44ea43008a47a54dc7e8fb8774fd64f96d": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20097%20USCITA%20DIDATTICA%20DEL%2022_10_2026.pdf",
+      "title": "CIRC 097 USCITA DIDATTICA DEL 22_10_2026.pdf",
+      "date": "2026-10-19T00:00:00+00:00",
+      "sha256": "a02e02461ee40e1b24d1af6842528b497ff50d224605d24c4a543664cb5da6b6",
+      "checked": "2026-10-19",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
