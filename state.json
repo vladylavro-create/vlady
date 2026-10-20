@@ -962,6 +962,15 @@
       "checked": "2026-10-20",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "5a3a462ef1fda1b07aebd6f3b56ccde5e13fe918ba12287b623313480565f596": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20098%20INTEGR.%20USCITA%20DIDATTICA%20DEL%2022_10_2026.pdf",
+      "title": "CIRC 098 INTEGR. USCITA DIDATTICA DEL 22_10_2026.pdf",
+      "date": "2026-10-20T00:00:00+00:00",
+      "sha256": "0cdd9043889bf57ffe292a90a8af2daec911010045a16023d188a72773806e4a",
+      "checked": "2026-10-20",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
     }
   },
   "initialized": true,
