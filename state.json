@@ -971,6 +971,15 @@
       "checked": "2026-10-21",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "4816e9b005a4a77ca80fc5789da6fd3107e810da7d5e7a8d8b4b873fa5aca935": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20099%20RETTIFICA%20COMUNICAZIONI%20ASSEMBLEE%20SINDACALI.pdf",
+      "title": "CIRC 099 RETTIFICA COMUNICAZIONI ASSEMBLEE SINDACALI.pdf",
+      "date": "2026-10-21T00:00:00+00:00",
+      "sha256": "ea914b3cea296ec683139ed62749cebd3dc4a4bc8a79a34c69d3ee88668d8dba",
+      "checked": "2026-10-21",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
