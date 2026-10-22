@@ -980,6 +980,15 @@
       "checked": "2026-10-22",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "70e0f1e470c9695fbf299b0b372a814209ac7fb61bd2590757a19e85a9139ead": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20100%20CALENDARIO%20CONSIGLI%20DI%20CLASSE%20A.S.%202026-2027.pdf",
+      "title": "CIRC 100 CALENDARIO CONSIGLI DI CLASSE A.S. 2026-2027.pdf",
+      "date": "2026-10-22T00:00:00+00:00",
+      "sha256": "941af8c00fb9e39577d657d6a9bcea53c6e1bd78e6889ff7734af51bcafb955b",
+      "checked": "2026-10-22",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
