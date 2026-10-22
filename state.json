@@ -989,6 +989,24 @@
       "checked": "2026-10-22",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "b3ba71abb547094edf6dd395596753b6e914ff8a1e91cf5363d8a0d357e0b0b4": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20102%20PROGETTO%20FUTURE%20COUNTRY%20BRESCIA%20.pdf",
+      "title": "CIRC 102 PROGETTO FUTURE COUNTRY BRESCIA .pdf",
+      "date": "2026-10-22T00:00:00+00:00",
+      "sha256": "d80274aa13cdb4ddc91d3a9b00e14edb527102b521499bba6b72c82d9c8eb4d6",
+      "checked": "2026-10-22",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "0a6c8665c0a3b1d72b6bf049be57885d94d2480e741ba715b1c53d466ef0cac0": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20101%20STAGE%20LINGUISTICO%2026-27.pdf",
+      "title": "CIRC 101 STAGE LINGUISTICO 26-27.pdf",
+      "date": "2026-10-22T00:00:00+00:00",
+      "sha256": "8093e3b2068db126d133e705d5d97745ee7b94b95a0e62f7d321544910af4c95",
+      "checked": "2026-10-22",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altri anni di corso."
     }
   },
   "initialized": true,
