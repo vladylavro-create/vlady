@@ -1007,6 +1007,51 @@
       "checked": "2026-10-23",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altri anni di corso."
+    },
+    "80dcc98be1262eba92545e67f57a66d1bc42f7e9de62b0db1dfe01dbcfdf3a5e": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20107%20RETTIFICA%20ORARIO%20DEFINITVO%20DIURNO%20DAL%2026%20OTTOBRE%202026.pdf",
+      "title": "CIRC 107 RETTIFICA ORARIO DEFINITVO DIURNO DAL 26 OTTOBRE 2026.pdf",
+      "date": "2026-10-23T00:00:00+00:00",
+      "sha256": "fe44181a5612fdde734ed89ab3e44d0b5c805d7c5df08914bb81f01fb4249c79",
+      "checked": "2026-10-23",
+      "decision": "include",
+      "reason": "Avviso di interesse generale per la vita scolastica."
+    },
+    "8b8df7a59a71aac56c801c2bda2529cc4e4337201e44b0d5268c00ca675bb4e2": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20106%20USCITA%20DIDATTICA%20DEL%2028_10_2026.pdf",
+      "title": "CIRC 106 USCITA DIDATTICA DEL 28_10_2026.pdf",
+      "date": "2026-10-23T00:00:00+00:00",
+      "sha256": "5741ea9a34122bcef09bbf399cca7fb6aba2490175dae81ee263b45503a7cfd7",
+      "checked": "2026-10-23",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "00055fa108598d5bef0394204cc537a9b5bf0c969f43237effb497c79cef0f42": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20105%20INCONTRO%20DOCENTI%20VIAGGIO%20A%20CRACOVIA.pdf",
+      "title": "CIRC 105 INCONTRO DOCENTI VIAGGIO A CRACOVIA.pdf",
+      "date": "2026-10-23T00:00:00+00:00",
+      "sha256": "63fc4fbbf968b9ba23e8e56d9bb25a52c4cc228bbffb1417f14cd78904679311",
+      "checked": "2026-10-23",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "1b7433e55da43ff504ec06c76a1d6e5718aecf4c68c367dd2777d999fec116a2": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20104%20COLLEGIO%20DOCENTI%2030%20OTTOBRE%2026.pdf",
+      "title": "CIRC 104 COLLEGIO DOCENTI 30 OTTOBRE 26.pdf",
+      "date": "2026-10-23T00:00:00+00:00",
+      "sha256": "4871b3a2e51066e49f335a63aa8005702c040b93ac1bdc722a04f89accdc173d",
+      "checked": "2026-10-23",
+      "decision": "exclude",
+      "reason": "Comunicazione organizzativa per il personale."
+    },
+    "4f407a2155440e330c98d5b664f74480af1228f3f7c7b66b5550eb72f45b2807": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20103%20SCIOPERO%2030%20OTTOBRE%2026.pdf",
+      "title": "CIRC 103 SCIOPERO 30 OTTOBRE 26.pdf",
+      "date": "2026-10-23T00:00:00+00:00",
+      "sha256": "983cf9966fb718708dee23b1aa0089d4368ec0aa12d6fe8c06dbe9aa299c5857",
+      "checked": "2026-10-23",
+      "decision": "include",
+      "reason": "Avviso di interesse generale per la vita scolastica."
     }
   },
   "initialized": true,
