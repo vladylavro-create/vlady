@@ -1052,6 +1052,15 @@
       "checked": "2026-10-24",
       "decision": "include",
       "reason": "Avviso di interesse generale per la vita scolastica."
+    },
+    "ba0ff2ad78e65a8f860a8ef8b9d205d39d45961d8af8671f1185179dabdc78aa": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20108%20MANUTENZIONE%20RETE%20DISTITUTO.pdf",
+      "title": "CIRC 108 MANUTENZIONE RETE DISTITUTO.pdf",
+      "date": "2026-10-24T00:00:00+00:00",
+      "sha256": "a6a6c0fc60f68a8ebb575a673b2eed07db44f74ab85d03bb2a3b262ca2d5fb94",
+      "checked": "2026-10-24",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
