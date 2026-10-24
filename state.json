@@ -1061,6 +1061,15 @@
       "checked": "2026-10-24",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "2cdc265939409bf6ffb0c3ddf05a46116e41ea6c9944045f2fa9d9a49576cfd0": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20109%20GESTIONE%20SUPPLENZE%20ORA%20DI%20IRC.pdf",
+      "title": "CIRC 109 GESTIONE SUPPLENZE ORA DI IRC.pdf",
+      "date": "2026-10-24T00:00:00+00:00",
+      "sha256": "6c8f98c78989c49ce12faf3d06f0b8301177580d8bd38a6d79dc6785a555b0f9",
+      "checked": "2026-10-24",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
