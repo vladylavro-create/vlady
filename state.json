@@ -1070,6 +1070,15 @@
       "checked": "2026-10-26",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "5c06ac1da5560aee227b7f4936b8b512f6af97cb1cceb706ee423475ea90df68": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20110%20INTEGRAZIONE%20ORDINE%20GIORNO%20COLLEGIO%20DOCENTI%2030%20OTTOBRE.pdf",
+      "title": "CIRC 110 INTEGRAZIONE ORDINE GIORNO COLLEGIO DOCENTI 30 OTTOBRE.pdf",
+      "date": "2026-10-26T00:00:00+00:00",
+      "sha256": "71ae50fbb97da88c8dcd5e5b7110169e205bb26e4fc490f7b163990f068cde0c",
+      "checked": "2026-10-26",
+      "decision": "exclude",
+      "reason": "Comunicazione organizzativa per il personale."
     }
   },
   "initialized": true,
