@@ -1079,6 +1079,60 @@
       "checked": "2026-10-27",
       "decision": "exclude",
       "reason": "Comunicazione organizzativa per il personale."
+    },
+    "d56cbfdc5fe6a7b5e2a53bd1a31571f5b36b1d0dd43c95fb1bcc33d64723d013": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20116%20CORSO%20AI%20LABORATORI%20AI%20PER%20LA%20MATEMATICA.pdf",
+      "title": "CIRC 116 CORSO AI LABORATORI AI PER LA MATEMATICA.pdf",
+      "date": "2026-10-27T00:00:00+00:00",
+      "sha256": "b75ca30d115f99d8b7104d5278d8bf152d546744796c2bdc70184536bbf56b91",
+      "checked": "2026-10-27",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "98af48e955e8639a8956f3c8c6b756aa9e1802ce0ab1c09b7228a49a1cb56ca8": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20115%20CORSO%20AI%20LABORATORI%20AI%20-%20MACHINE%20LEARNING%201.pdf",
+      "title": "CIRC 115 CORSO AI LABORATORI AI - MACHINE LEARNING 1.pdf",
+      "date": "2026-10-27T00:00:00+00:00",
+      "sha256": "641e55fc0db890741378ccf157a3f687a5520a5fa7036d8cdd546cda19690dc6",
+      "checked": "2026-10-27",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "36314f6edd90eb5163b5e45580156880a29c30f6b9090b5b720cda23f3115bef": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20114%20CORSO%20AI%20LABORATORI%20AI%20-%20MACHINE%20LEARNING%202.pdf",
+      "title": "CIRC 114 CORSO AI LABORATORI AI - MACHINE LEARNING 2.pdf",
+      "date": "2026-10-27T00:00:00+00:00",
+      "sha256": "d0ede2cf9fde0aa2f3aff6d0adc41b52b117df89281053674048bed685a481ca",
+      "checked": "2026-10-27",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "d1fa28f53476ee569c6c7ab504c1bcf932cd19b717b17b57722829d47bf2d9e2": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20113%20CORSO%20AI%20LABORATORI%20AI%20PER%20LA%20LINGUA%20INGLESE.pdf",
+      "title": "CIRC 113 CORSO AI LABORATORI AI PER LA LINGUA INGLESE.pdf",
+      "date": "2026-10-27T00:00:00+00:00",
+      "sha256": "681abede1d21a741a6ce630a4e4af3f94a296689062b1bb6541053e5b1f8c6e3",
+      "checked": "2026-10-27",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "70737e128c9ad16ef07f0377a3a99bd312d151d98f0723739929518730689680": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20112%20CORSO%20AI%20LABORATORI%20AI%20NELLA%20SCUOLA%20-%20AREA%20ELETTRICA.pdf",
+      "title": "CIRC 112 CORSO AI LABORATORI AI NELLA SCUOLA - AREA ELETTRICA.pdf",
+      "date": "2026-10-27T00:00:00+00:00",
+      "sha256": "993ce73f43030a0ebf014fc7bc749d0139c782d5458b1bd02fe38d6b06eea40b",
+      "checked": "2026-10-27",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "77884e7b55b5762c05d840a6a83a3001bf50573f763fb1c44d94977b7d094d54": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20111%20USCITA%20DIDATTICA%20DEL%2030_10_2026.pdf",
+      "title": "CIRC 111 USCITA DIDATTICA DEL 30_10_2026.pdf",
+      "date": "2026-10-27T00:00:00+00:00",
+      "sha256": "c0436646e93612de8b2536fa7e7ef5e81133cb817a3bea52c78850999e214c79",
+      "checked": "2026-10-27",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
     }
   },
   "initialized": true,
