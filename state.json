@@ -1133,6 +1133,15 @@
       "checked": "2026-10-28",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "aa48cf20ad7ee8ce09cf2f5f13bbd6bbbe26a4911ce9f6ffface61d579246afd": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20117%20USCITA%20DIDATTICA%20DEL%2003_11_2026.pdf",
+      "title": "CIRC 117 USCITA DIDATTICA DEL 03_11_2026.pdf",
+      "date": "2026-10-28T00:00:00+00:00",
+      "sha256": "5fab929ea92c300e456b43b5387446642b526067229b79aa87361a6a73b62aaf",
+      "checked": "2026-10-28",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
     }
   },
   "initialized": true,
