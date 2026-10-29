@@ -1142,6 +1142,15 @@
       "checked": "2026-10-29",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "47f3245e3c931e15ca4dab2cf0f3a835415249891176b6c8736b9afd86d79f0c": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20118%20OPEN%20DAY%20A.S.%202026-2027%20-%20ORGANIZZAZIONE.pdf",
+      "title": "CIRC 118 OPEN DAY A.S. 2026-2027 - ORGANIZZAZIONE.pdf",
+      "date": "2026-10-29T00:00:00+00:00",
+      "sha256": "107a795e4a56de482d8c568068bbaa0f93f2f480dccef6ece10eccc5508a0a59",
+      "checked": "2026-10-29",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altri anni di corso."
     }
   },
   "initialized": true,
