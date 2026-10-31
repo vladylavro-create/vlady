@@ -1160,6 +1160,24 @@
       "checked": "2026-10-31",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "fc8f6ba813d467677776a6d1d2490092d8b5c1e26a7b7ebc9092f0854f664ad9": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20121%201%5E%20RIUNIONE%20TEAM%20PER%20IL%20SUCCESSO.pdf",
+      "title": "CIRC 121 1^ RIUNIONE TEAM PER IL SUCCESSO.pdf",
+      "date": "2026-10-31T00:00:00+00:00",
+      "sha256": "0f51bbd6c872baa5889630aae38fe7477a114ef37f0f6d08d94ef35081c28a48",
+      "checked": "2026-10-31",
+      "decision": "include",
+      "reason": "Il contenuto comprende le classi seconde o il biennio."
+    },
+    "09d7ce43608eb41de91d3c7886a4546dcb4625f889800e4795766cc807a55819": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20120%20CLASSI%202%5E%20PROGETTO%20-%20IL%20CASTELLO.pdf",
+      "title": "CIRC 120 CLASSI 2^ PROGETTO - IL CASTELLO.pdf",
+      "date": "2026-10-31T00:00:00+00:00",
+      "sha256": "12c558cbe749660ab608dbbc8635c70599a544ea70e027370de7faebeb69b82b",
+      "checked": "2026-10-31",
+      "decision": "include",
+      "reason": "Riguarda le classi seconde."
     }
   },
   "initialized": true,
