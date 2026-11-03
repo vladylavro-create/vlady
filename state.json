@@ -1178,6 +1178,78 @@
       "checked": "2026-11-03",
       "decision": "include",
       "reason": "Riguarda le classi seconde."
+    },
+    "77a0d9d57599a360c9b91614f2df7f09b1e7eebcc0eebd84a8af8718f6d287e0": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20129%20DISPONIBILITA%20CORSI%20PROGETTO%20Il%20tuo%20futuro%20parte%20da%20qui%20resta%2C%20impara%20e%20realizza.pdf",
+      "title": "CIRC 129 DISPONIBILITA CORSI PROGETTO Il tuo futuro parte da qui resta, impara e realizza.pdf",
+      "date": "2026-11-03T00:00:00+00:00",
+      "sha256": "7dd1e9e5c174eb3bf75ff32cf26b6c4b11d07da32526a949f174be4a5597423a",
+      "checked": "2026-11-03",
+      "decision": "exclude",
+      "reason": "Destinatari: personale della scuola."
+    },
+    "9aa0296da4db91474e2d7895f5564dccd9d5a0cd6ff57df7d0f0b7183f6225af": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20128%20MODIFICA%20AULA%20PROGETTO%20Hai%20bisogno%20di%20aiuto%20Chiedi%20pure.pdf",
+      "title": "CIRC 128 MODIFICA AULA PROGETTO Hai bisogno di aiuto Chiedi pure.pdf",
+      "date": "2026-11-03T00:00:00+00:00",
+      "sha256": "a1d5d0cc89226112fb2a1b348a83bdc7140c7b145cd72209a6cd235b43b9b5db",
+      "checked": "2026-11-03",
+      "decision": "include",
+      "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
+    },
+    "1d764764a7d1be1b55aac29c80dd97c2ad7cc42c1a29b936c043f7e6b8995b1c": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20127%201%5E%20CONVOCAZIONE%20ASSEMBLEA%20PLENARIA%20CONSULTA%20PROVINCIALE%20DEGLI%20STUDENTI.pdf",
+      "title": "CIRC 127 1^ CONVOCAZIONE ASSEMBLEA PLENARIA CONSULTA PROVINCIALE DEGLI STUDENTI.pdf",
+      "date": "2026-11-03T00:00:00+00:00",
+      "sha256": "dcb005313ba1195f05bdcbba474a14909295635f8d9c2e24607c656cbf84e9d0",
+      "checked": "2026-11-03",
+      "decision": "exclude",
+      "reason": "Destinata ad altre classi specifiche."
+    },
+    "e9b8a3d35539b57e44f5781a4c08064dfdae3a9b3b24ef13d93b4386cfcdd311": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20126%20ESITI%20ELEZIONI%20CONSIGLIO%20DISTITUTO%20COMPONENTE%20STUDENTI.pdf",
+      "title": "CIRC 126 ESITI ELEZIONI CONSIGLIO DISTITUTO COMPONENTE STUDENTI.pdf",
+      "date": "2026-11-03T00:00:00+00:00",
+      "sha256": "7f391fe0ece36c37cab2edab72099715ea870912da6e2c33a2464980aa1b9444",
+      "checked": "2026-11-03",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "05714d406119878dd1534f50107c0e2d2c3c492080d8c5fb98835ac8e7dc49d1": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20125%20ESITI%20ELEZIONI%20CONSULTA%20PROVINCIALE%20DEGLI%20STUDENTI.pdf",
+      "title": "CIRC 125 ESITI ELEZIONI CONSULTA PROVINCIALE DEGLI STUDENTI.pdf",
+      "date": "2026-11-03T00:00:00+00:00",
+      "sha256": "f60daca333db968d1460a88fcef619bda146ccd64e36306e1ff806884f6b0b79",
+      "checked": "2026-11-03",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "b25a0ddfea5cb00abc7aa309675402d8d7f72ea22509783eadbffb8a7e4b39b6": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20124%20GARE%20INFORMATICA.pdf",
+      "title": "CIRC 124 GARE INFORMATICA.pdf",
+      "date": "2026-11-03T00:00:00+00:00",
+      "sha256": "bbbaa214b05b09381175cba486263d3b5bfae6937c0c4e2699cba4615aec1adc",
+      "checked": "2026-11-03",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "cdad92ac1dc5dbca7b572ed43a0aa6ff8631e575503633da9fa64903e5936485": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20123%20TRA%20PARI%20EX%20PEER%20EDUCATION%20-%20PROGETTO%20POF.pdf",
+      "title": "CIRC 123 TRA PARI EX PEER EDUCATION - PROGETTO POF.pdf",
+      "date": "2026-11-03T00:00:00+00:00",
+      "sha256": "dd147606d6dd94e9ed6aee9e3938e1c2185eaef36ae24ffb0622a5f0ec5eb638",
+      "checked": "2026-11-03",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "bbeb2313503c1c6a3e05d12a54c2731335787e588c23d5e0b7844591fd8d8dd2": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20122%20SELEZIONE%20DOCENTE%20ACCOMPAGNATORE%20SCUOLA%20FUTURA%20AND%20WORLD%20SUMMIT%20OF%20NOBEL%20PEACE%20LAUREATE.pdf",
+      "title": "CIRC 122 SELEZIONE DOCENTE ACCOMPAGNATORE SCUOLA FUTURA AND WORLD SUMMIT OF NOBEL PEACE LAUREATE.pdf",
+      "date": "2026-11-03T00:00:00+00:00",
+      "sha256": "790e1977fd2cf0b569dcb5a8cc3946d9f81f197f4a21b81eda23a3d7f2704982",
+      "checked": "2026-11-03",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
     }
   },
   "initialized": true,
