@@ -1250,6 +1250,33 @@
       "checked": "2026-11-04",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "5de66af21a93e22480af93234660785f678fddd09e664fe229d137d20b30a72f": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20132%20USCITE%20DIDATTICHE%20DEL%2007_11_2026.pdf",
+      "title": "CIRC 132 USCITE DIDATTICHE DEL 07_11_2026.pdf",
+      "date": "2026-11-04T00:00:00+00:00",
+      "sha256": "ca07221fbc4d497be164521a7cc486a50b40bdedecb56b5b1ad8db0c722d80cb",
+      "checked": "2026-11-04",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "b310dcc30eb2e3ac8904846e53205958fdb7489a50019f599dd42082737b257c": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20131%20RETTIFICA%20MAIL%20SELEZIONE%20DOCENTE%20ACCOMPAGNATORE%20SCUOLA%20FUTURA%20AND%20WORLD%20SUMMIT%20OF%20NOBEL%20PEACE%20LAUREATE.pdf",
+      "title": "CIRC 131 RETTIFICA MAIL SELEZIONE DOCENTE ACCOMPAGNATORE SCUOLA FUTURA AND WORLD SUMMIT OF NOBEL PEACE LAUREATE.pdf",
+      "date": "2026-11-04T00:00:00+00:00",
+      "sha256": "382b363b633392e43959cb3991af5748534923488453e55220b8b55dc4f58c14",
+      "checked": "2026-11-04",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "c436f0ec4980c20088535483e66f2dbf7ef88babb225d706c79d35b613c6789e": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20130%20GRUPPO%20SPORTIVO%20DI%20PESISTICA%20GIOVANILE%20E%20FITNESS.pdf",
+      "title": "CIRC 130 GRUPPO SPORTIVO DI PESISTICA GIOVANILE E FITNESS.pdf",
+      "date": "2026-11-04T00:00:00+00:00",
+      "sha256": "cc465cdf1d345de66a2a7294560dadfe7342bf86d8a400892fe110cb193c6793",
+      "checked": "2026-11-04",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altri anni di corso."
     }
   },
   "initialized": true,
