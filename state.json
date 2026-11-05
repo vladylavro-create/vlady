@@ -1277,6 +1277,24 @@
       "checked": "2026-11-05",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altri anni di corso."
+    },
+    "48837d2e145f35131d553a69f40b686f7abd2562f452372315b511ea0b182091": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20134%20ESITI%20VOTAZIONI%20RAPPRESENTANTI%20NEI%20CONSIGLI%20DI%20CLASSE.pdf",
+      "title": "CIRC 134 ESITI VOTAZIONI RAPPRESENTANTI NEI CONSIGLI DI CLASSE.pdf",
+      "date": "2026-11-05T00:00:00+00:00",
+      "sha256": "5d39ff6a077264ea0c2a6a29fd035bf72e8c7d5b7e3cee5e49af81b926d34812",
+      "checked": "2026-11-05",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "e8fba62b83e7bed986d5ab0e5a510763bae762489a16c43ddc7c71aa007c0b43": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20133%20CONSIGLI%20DI%20CLASSE%20PERCORSI%20DI%20SECONDO%20LIVELLO%20%28EX%20SERALE%29.pdf",
+      "title": "CIRC 133 CONSIGLI DI CLASSE PERCORSI DI SECONDO LIVELLO (EX SERALE).pdf",
+      "date": "2026-11-05T00:00:00+00:00",
+      "sha256": "c0e310e8c8e0849d8c57714baf18f69dc82d8bd508c59776e033ceda47e0d20a",
+      "checked": "2026-11-05",
+      "decision": "exclude",
+      "reason": "Destinata ai corsi serali."
     }
   },
   "initialized": true,
