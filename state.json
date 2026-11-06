@@ -1295,6 +1295,15 @@
       "checked": "2026-11-06",
       "decision": "exclude",
       "reason": "Destinata ai corsi serali."
+    },
+    "da2570afc372ebd17786f4ba3d34721753168c42315e1bf6467b1053c7d58cb5": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20135%20COMUNICAZIONE%20SELEZIONE%20DOCENTE%20ACCOMPAGNATORE%20SCUOLA%20FUTURA%20AND%20WORLD%20SUMMIT%20OF%20NOBEL%20PEACE%20LAUREATE.pdf",
+      "title": "CIRC 135 COMUNICAZIONE SELEZIONE DOCENTE ACCOMPAGNATORE SCUOLA FUTURA AND WORLD SUMMIT OF NOBEL PEACE LAUREATE.pdf",
+      "date": "2026-11-06T00:00:00+00:00",
+      "sha256": "9cc726273e9c542adebfbaec714a193a083df5040c0b5b3de22a86149021e5a1",
+      "checked": "2026-11-06",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
