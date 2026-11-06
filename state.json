@@ -1304,6 +1304,42 @@
       "checked": "2026-11-06",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "82e85ee98fa456536c051a22ecb4297ccfd90cbec41260832b9e6174c91507f9": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20139%20OPEN%20DAY%20-%20LABORATORI%20DI%20CHIMICA.pdf",
+      "title": "CIRC 139 OPEN DAY - LABORATORI DI CHIMICA.pdf",
+      "date": "2026-11-06T00:00:00+00:00",
+      "sha256": "3efb0c9d30a719571ff3c619e8882094bb9ec332533b4480032dab3460aa8318",
+      "checked": "2026-11-06",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "ea372e5b45fecf6f95200263e98777e039d46bab927720315c448c80d74dc5a4": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20138%20USCITE%20DIDATTICHE%20DEL%2010_11_2026.pdf",
+      "title": "CIRC 138 USCITE DIDATTICHE DEL 10_11_2026.pdf",
+      "date": "2026-11-06T00:00:00+00:00",
+      "sha256": "70a369407b66375ea48cdc04a588c9872d013326a4ce05ffb42d3d498c7ffc6c",
+      "checked": "2026-11-06",
+      "decision": "include",
+      "reason": "La 2FI è citata nel contenuto."
+    },
+    "2f79d409f69263a670c39b06ce56863d4d88431c20a128644fb58d38ac138889": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20137%20USCITE%20DIDATTICHE%20DEL%2011_11_2026.pdf",
+      "title": "CIRC 137 USCITE DIDATTICHE DEL 11_11_2026.pdf",
+      "date": "2026-11-06T00:00:00+00:00",
+      "sha256": "077eeafdb547ca18752ee9f2817863039b18feb595c2d80fc0fd575f6c788b78",
+      "checked": "2026-11-06",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "dbb1de350d44955671525f650a118ac225edcdcaccda8100b887d9736592f677": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20136%20USCITA%20DIDATTICA%20DEL%2013_11_2026.pdf",
+      "title": "CIRC 136 USCITA DIDATTICA DEL 13_11_2026.pdf",
+      "date": "2026-11-06T00:00:00+00:00",
+      "sha256": "749a54e8fef92c9c359624de52cb25e54c4813eb587493dc3df6c9fd96ca28e3",
+      "checked": "2026-11-06",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
     }
   },
   "initialized": true,
