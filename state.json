@@ -1340,6 +1340,24 @@
       "checked": "2026-11-07",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "696c9f1428bafa20eea988bf5af70a8ea90b88c6d5e0a50ec66a91227ba6f01b": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20141%20PERMESSI%20STRAORDINARI%20RETRIBUITI%20PER%20IL%20DIRITTO%20ALLO%20STUDIO%20%28150%20ORE%29%20-%20ANNO%20SOLARE%202027.pdf",
+      "title": "CIRC 141 PERMESSI STRAORDINARI RETRIBUITI PER IL DIRITTO ALLO STUDIO (150 ORE) - ANNO SOLARE 2027.pdf",
+      "date": "2026-11-07T00:00:00+00:00",
+      "sha256": "cd40eae7170ca8b7d73341f9ca13a80b84c3c08eb50579d462e9542020a19079",
+      "checked": "2026-11-07",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "4ebec4d11d99e4576b20a915d5a1f75a7995e1b1b4cd85ca70eec2ae91edc858": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20140%20SELEZIONE%20DOCENTE%20ACCOMPAGNATORE%20SCUOLA%20FUTURA%20AND%20WORLD%20SUMMIT%20OF%20NOBEL%20PEACE%20LAUREATE.pdf",
+      "title": "CIRC 140 SELEZIONE DOCENTE ACCOMPAGNATORE SCUOLA FUTURA AND WORLD SUMMIT OF NOBEL PEACE LAUREATE.pdf",
+      "date": "2026-11-07T00:00:00+00:00",
+      "sha256": "67cd2594c476ba26e76ac9ad94d8460b31ff4632503c5f544bb99824a1a38d5d",
+      "checked": "2026-11-07",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
