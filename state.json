@@ -1358,6 +1358,15 @@
       "checked": "2026-11-09",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "036308db2ca31e83ccec17d0f98c6b49b3f7bb9c58e149c8bf4ef28bb0ddfbc1": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20142%205AEN%205AET%20EVENTO%20CONCLUSIVO%20DOMANI%20LAVORO%202026.pdf",
+      "title": "CIRC 142 5AEN 5AET EVENTO CONCLUSIVO DOMANI LAVORO 2026.pdf",
+      "date": "2026-11-09T00:00:00+00:00",
+      "sha256": "d83fed33a2d354d3934d0293794655b6517bdb70885bd7f4b23f3268f24fd762",
+      "checked": "2026-11-09",
+      "decision": "exclude",
+      "reason": "Destinata ad altre classi specifiche."
     }
   },
   "initialized": true,
