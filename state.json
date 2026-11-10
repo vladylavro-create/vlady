@@ -1367,6 +1367,42 @@
       "checked": "2026-11-10",
       "decision": "exclude",
       "reason": "Destinata ad altre classi specifiche."
+    },
+    "3555a470221d6ccd5d93c1ece9c96a7f15df5d257d53c3a6ecbdff2bdd70889b": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20146%20PROGETTO%20DI%20PROMOZIONE%20DELLA%20SOLIDARIETA%20%20AVIS%20%20-%20ADMO%20-%20AIL.pdf",
+      "title": "CIRC 146 PROGETTO DI PROMOZIONE DELLA SOLIDARIETA  AVIS  - ADMO - AIL.pdf",
+      "date": "2026-11-10T00:00:00+00:00",
+      "sha256": "d66144b8c1b055fe42c3fcf0ac240b0e40624ad3f4a390bba3d5da609eac7ab1",
+      "checked": "2026-11-10",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "8ede25828f5cfad4c077ce43a9f8176abe82675ff2bf4c3bfb15d1e80823c2c1": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20145%20AIDO%20IL%20TRAPIANTO%20E%20VITA%20CONOSCERE%20PER%20DONARE.pdf",
+      "title": "CIRC 145 AIDO IL TRAPIANTO E VITA CONOSCERE PER DONARE.pdf",
+      "date": "2026-11-10T00:00:00+00:00",
+      "sha256": "14943443d1d031a7bd1ac00b7662b704d2557ab74167198eeda51d80dfc45d4e",
+      "checked": "2026-11-10",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "44f0f78b23afe2efa591fd166ffc315865089db8e5a74ce09fe8b8d1d496f148": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20144%20CORSO%20SPAGNOLO%20DOCENTI%20STUDENTI.pdf",
+      "title": "CIRC 144 CORSO SPAGNOLO DOCENTI STUDENTI.pdf",
+      "date": "2026-11-10T00:00:00+00:00",
+      "sha256": "01577902cbee3f75941ca5f2f04873be4badea38aa0eaaace91b52494897734a",
+      "checked": "2026-11-10",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "a89fe3871df99eb9893165c94b840c4536cf8e794ea79de800ea119d4ba57211": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20143%20CONVOCAZIONE%20CONSIGLI%20DI%20CLASSE%20NOVEMBRE.pdf",
+      "title": "CIRC 143 CONVOCAZIONE CONSIGLI DI CLASSE NOVEMBRE.pdf",
+      "date": "2026-11-10T00:00:00+00:00",
+      "sha256": "4f9d503cc76033ec824ba0ec07613428ca56a2115e9df4aea6049d5abed9ad65",
+      "checked": "2026-11-10",
+      "decision": "include",
+      "reason": "La 2FI è citata nel contenuto."
     }
   },
   "initialized": true,
