@@ -1403,6 +1403,42 @@
       "checked": "2026-11-12",
       "decision": "include",
       "reason": "La 2FI è citata nel contenuto."
+    },
+    "d17e99681201bf1d79696523be9b1a82f48f3b4a3da15d3ec0d3bfd8937c9061": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20150%20GRUPPO%20SPORTIVO%20DI%20ARRAMPICATA%20-%20CORSO%20BASE.pdf",
+      "title": "CIRC 150 GRUPPO SPORTIVO DI ARRAMPICATA - CORSO BASE.pdf",
+      "date": "2026-11-12T00:00:00+00:00",
+      "sha256": "32990249b5c29017500fc5d2ec03a49484eab384e89b1e8e788f028e7c5ecf44",
+      "checked": "2026-11-12",
+      "decision": "include",
+      "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
+    },
+    "3dbce92b03304fe11fbae2482fb401eea57acdbc7388216750f12863f1ec8df8": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20149%20USCITA%20DIDATTICA%20DEL%2018_11_2026.pdf",
+      "title": "CIRC 149 USCITA DIDATTICA DEL 18_11_2026.pdf",
+      "date": "2026-11-12T00:00:00+00:00",
+      "sha256": "85ad1687d6853423bab6b0a8a1e4ce34a387a1ce478565293ab280f246917fd6",
+      "checked": "2026-11-12",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "0a629286a781a8f34716dfd922473908feacc8b47503bead58fc119b6f98bfc8": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20148%20USCITE%20DIDATTICHE%20DEL%2020_11_2026.pdf",
+      "title": "CIRC 148 USCITE DIDATTICHE DEL 20_11_2026.pdf",
+      "date": "2026-11-12T00:00:00+00:00",
+      "sha256": "0827ef5a186692a9caa40c38e41682a1ebcfd099897274a73928c9b03afb9373",
+      "checked": "2026-11-12",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "9d7f37e92e93fdd29b389818c82e1cc1da4933f095f2d42477809f3fa8de57ed": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20147%20SCIOPERO%2020%20NOVEMBRE%202026.pdf",
+      "title": "CIRC 147 SCIOPERO 20 NOVEMBRE 2026.pdf",
+      "date": "2026-11-12T00:00:00+00:00",
+      "sha256": "fa1454ec407d9a98f61300952e9eb8205a70566410b83ef6f397bf004c06b5e8",
+      "checked": "2026-11-12",
+      "decision": "include",
+      "reason": "Avviso di interesse generale per la vita scolastica."
     }
   },
   "initialized": true,
