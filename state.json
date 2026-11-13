@@ -1439,6 +1439,15 @@
       "checked": "2026-11-13",
       "decision": "include",
       "reason": "Avviso di interesse generale per la vita scolastica."
+    },
+    "8928d8307c072d375e810ebb4a8e83e9f75d0a82c4d1365d75a53aad15f2f104": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20151%20PROGETTO%20PEER%20-%20OGNI%20DONO%20E%20UN%20DONO.pdf",
+      "title": "CIRC 151 PROGETTO PEER - OGNI DONO E UN DONO.pdf",
+      "date": "2026-11-13T00:00:00+00:00",
+      "sha256": "875cab02c88ad2f40f951794c49acf87f70de0597d7b3c5c83150c5485274e9a",
+      "checked": "2026-11-13",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
