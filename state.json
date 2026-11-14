@@ -1448,6 +1448,24 @@
       "checked": "2026-11-14",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "a5bad16fd2cfbd5f9fdbf1cdeb6b8cf6ebc568d548f797fc5d12424613e0c837": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20153%20USCITA%20DIDATTICA%20DEL%2019_11_2026.pdf",
+      "title": "CIRC 153 USCITA DIDATTICA DEL 19_11_2026.pdf",
+      "date": "2026-11-14T00:00:00+00:00",
+      "sha256": "c083885463e77b087446dc16a740b65313420b69f4f6b2550fc163aad4ab6961",
+      "checked": "2026-11-14",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "06409d697ec33cc4d562565aab55c6c878f07028175357917ccf767ccbd3d3ae": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20152%20DOCENTI%20ACCOMPAGNATORI%20STAGE%20LINGUISTICO.pdf",
+      "title": "CIRC 152 DOCENTI ACCOMPAGNATORI STAGE LINGUISTICO.pdf",
+      "date": "2026-11-14T00:00:00+00:00",
+      "sha256": "94e0df2e1060fb17c52db2c999ac2bf370820b223080a4ce925cc39882653001",
+      "checked": "2026-11-14",
+      "decision": "include",
+      "reason": "Il contenuto comprende le classi seconde o il biennio."
     }
   },
   "initialized": true,
