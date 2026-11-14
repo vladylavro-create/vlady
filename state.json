@@ -1466,6 +1466,24 @@
       "checked": "2026-11-14",
       "decision": "include",
       "reason": "Il contenuto comprende le classi seconde o il biennio."
+    },
+    "51eb95b8c2918e4a3e07e1c24fd3f028499aa6b1ffec89a35ea6e9c0020d6c18": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20155%20SALONE%20DELLO%20STUDENTE%20-%20ROMA.pdf",
+      "title": "CIRC 155 SALONE DELLO STUDENTE - ROMA.pdf",
+      "date": "2026-11-14T00:00:00+00:00",
+      "sha256": "2a724dbea8d662f5f3ec957f54016b2b25bc420fbf21da6f9bd794db6adfdeb6",
+      "checked": "2026-11-14",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "caa695a9b589e7e59beca94ea54adf6f5082cdd5095e5916908303604671d701": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20154%20ESAME%20DI%20MATURITA%20-%20DOMANDA%20DI%20AMMISSIONE.pdf",
+      "title": "CIRC 154 ESAME DI MATURITA - DOMANDA DI AMMISSIONE.pdf",
+      "date": "2026-11-14T00:00:00+00:00",
+      "sha256": "49ab7990aa2c10b166e1c2daa8d55abfea48ce05ed4bcf89f56650b397515075",
+      "checked": "2026-11-14",
+      "decision": "exclude",
+      "reason": "Riguarda il triennio o gli esami finali."
     }
   },
   "initialized": true,
