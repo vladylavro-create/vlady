@@ -1484,6 +1484,15 @@
       "checked": "2026-11-16",
       "decision": "exclude",
       "reason": "Riguarda il triennio o gli esami finali."
+    },
+    "6db86c2b9900a100e72daf7f3c21eb3ccf57e4eeaa374aac92fd2e8d6f2d262d": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20156%20STUDENTI%20APRIFILA%20-%20CHIUDIFILA%20-%20COLLABORATORI%20DVA.pdf",
+      "title": "CIRC 156 STUDENTI APRIFILA - CHIUDIFILA - COLLABORATORI DVA.pdf",
+      "date": "2026-11-16T00:00:00+00:00",
+      "sha256": "8d52c62e4217b295345c54a3f795135990481d2d1884fcbdfb9fd0ca86f36041",
+      "checked": "2026-11-16",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
