@@ -1493,6 +1493,15 @@
       "checked": "2026-11-17",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "eb244ba7bbb73b2b68197789e4b635d9a85beab885df4d9a3a7c1eca31797252": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20157%20USCITE%20DIDATTICHE%20DEL%2025_11_2026.pdf",
+      "title": "CIRC 157 USCITE DIDATTICHE DEL 25_11_2026.pdf",
+      "date": "2026-11-17T00:00:00+00:00",
+      "sha256": "d4cb3ca0a42d4a2e8ca469b60b6616c93d8092ac0d7bb5efdd3a60f59b47fece",
+      "checked": "2026-11-17",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
     }
   },
   "initialized": true,
