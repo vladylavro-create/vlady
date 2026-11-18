@@ -1502,6 +1502,42 @@
       "checked": "2026-11-18",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "20ddad55091d3ff8c540f1ae4c90c29583e036815a3c2f5c8dd68228be56caa4": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20161%20MODIFICA%20CALENDARIO%20PROGETTO%20POF%20TRA%20PARI%20EX%20PEER%20EDUCATION.pdf",
+      "title": "CIRC 161 MODIFICA CALENDARIO PROGETTO POF TRA PARI EX PEER EDUCATION.pdf",
+      "date": "2026-11-18T00:00:00+00:00",
+      "sha256": "c8f3d098bba7b123500edf103ec015134a251a31d769b2bbc4c9dfae59781e6c",
+      "checked": "2026-11-18",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "20861fd9be8ca417d7c69d3753c1f5703e7583f7c83270f1e270543d6982c6ce": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20160%20CLASSI%205%20-%20ATTIVITA%20DI%20ORIENTAMENTO.pdf",
+      "title": "CIRC 160 CLASSI 5 - ATTIVITA DI ORIENTAMENTO.pdf",
+      "date": "2026-11-18T00:00:00+00:00",
+      "sha256": "be70bdb7d5e35a9c4aa51cf3279fb4d06a045b35535dcd9c53e0374d928b82f2",
+      "checked": "2026-11-18",
+      "decision": "exclude",
+      "reason": "Destinata ad anni diversi dalla seconda."
+    },
+    "cb905f47cbe185c0d0fbf9e65e6a00d53634013c9df87c21f4eeafd60e048ccd": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20159%20PIANO%20DI%20LAVORO%20DEL%20DOCENTE%20CLASSI%20SECONDE-TERZE-QUARTE-QUINTE.pdf",
+      "title": "CIRC 159 PIANO DI LAVORO DEL DOCENTE CLASSI SECONDE-TERZE-QUARTE-QUINTE.pdf",
+      "date": "2026-11-18T00:00:00+00:00",
+      "sha256": "e7b4a7154e723b55f2ed82ac7f3726b6906d65c2684d4df9356e804e8be3125a",
+      "checked": "2026-11-18",
+      "decision": "include",
+      "reason": "Riguarda le classi seconde."
+    },
+    "0af0c03aabc07112651257c3e32da56bc74b41dfc9f74818dc0fa1c59f1135ed": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20158%20ASSEMBLEA%20STUDENTESCA.pdf",
+      "title": "CIRC 158 ASSEMBLEA STUDENTESCA.pdf",
+      "date": "2026-11-18T00:00:00+00:00",
+      "sha256": "618077546c2701d650fba10c88c06ce7d4c41e7fb3bc9488811ca49130fe93c6",
+      "checked": "2026-11-18",
+      "decision": "include",
+      "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
     }
   },
   "initialized": true,
