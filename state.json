@@ -1547,6 +1547,15 @@
       "checked": "2026-11-21",
       "decision": "exclude",
       "reason": "Comunicazione organizzativa per il personale."
+    },
+    "c3afe0aacb92cbda70258cdc7cfc90493c500b5270cc4a8e6197c11adf0bdbb3": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20163%20UdA%20-%20CORSO%20FORMAZIONE%20DOCENTI%20ITALIANO%20BIENNIO.pdf",
+      "title": "CIRC 163 UdA - CORSO FORMAZIONE DOCENTI ITALIANO BIENNIO.pdf",
+      "date": "2026-11-21T00:00:00+00:00",
+      "sha256": "a9912f21a9dc7f915b09679e6ee90972320e7284a7f18f544fb29bffd483ee29",
+      "checked": "2026-11-21",
+      "decision": "include",
+      "reason": "Riguarda il biennio, quindi anche la seconda."
     }
   },
   "initialized": true,
