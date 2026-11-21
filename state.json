@@ -1538,6 +1538,15 @@
       "checked": "2026-11-21",
       "decision": "include",
       "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
+    },
+    "343f4a7540cbe0eac85e7b29ec3a95be4814f96184d2dc5d62f09b2f2a30b424": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20162%20DISPONIBILITA%20DOCENTI%20TUTOR%20CORSI%20PROGETTO%20Il%20tuo%20futuro%20parte%20da%20qui%20resta%2C%20impara%20e%20realizza.pdf",
+      "title": "CIRC 162 DISPONIBILITA DOCENTI TUTOR CORSI PROGETTO Il tuo futuro parte da qui resta, impara e realizza.pdf",
+      "date": "2026-11-21T00:00:00+00:00",
+      "sha256": "ffc6727f20b9ceaf8e7a4e2ea4698684ed9efea038f5fb3aab4fcfbdaf99634d",
+      "checked": "2026-11-21",
+      "decision": "exclude",
+      "reason": "Comunicazione organizzativa per il personale."
     }
   },
   "initialized": true,
