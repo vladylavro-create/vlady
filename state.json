@@ -1556,6 +1556,15 @@
       "checked": "2026-11-23",
       "decision": "include",
       "reason": "Riguarda il biennio, quindi anche la seconda."
+    },
+    "9fed7679d64e4178f265a43df4c62a05809f9243c51fcb85b114b298627c261d": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20164%20STAGE%20LINGUISTICO%20-%20ABBINAMENTI%20CLASSI%20-%20LOCALITA%20-%20ACCOMPAGNATORI.pdf",
+      "title": "CIRC 164 STAGE LINGUISTICO - ABBINAMENTI CLASSI - LOCALITA - ACCOMPAGNATORI.pdf",
+      "date": "2026-11-23T00:00:00+00:00",
+      "sha256": "e60bc30849b9a2733a24a49a0e0e2504b9fb2cf55ee97527daa7afd42f9c1331",
+      "checked": "2026-11-23",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
     }
   },
   "initialized": true,
