@@ -1574,6 +1574,24 @@
       "checked": "2026-11-24",
       "decision": "include",
       "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
+    },
+    "ce65101f41b5c03e1a42fa0feddd5147a6cbaec545ae798774d34c1187b00e7d": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20167%20USCITE%20DIDATTICHE%20DEL%2026_11_2026.pdf",
+      "title": "CIRC 167 USCITE DIDATTICHE DEL 26_11_2026.pdf",
+      "date": "2026-11-24T00:00:00+00:00",
+      "sha256": "e6d8b9674885dd73f3f56af41e870be2c4caa2ff495d34d877c2123db1cf147c",
+      "checked": "2026-11-24",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "4eecb503fa9414ca0e4ccc04dfac5cd7ddc9c8677604774ed70f1b87b69f2066": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20166%20USCITE%20DIDATTICHE%20DEL%2028_11_2026.pdf",
+      "title": "CIRC 166 USCITE DIDATTICHE DEL 28_11_2026.pdf",
+      "date": "2026-11-24T00:00:00+00:00",
+      "sha256": "3f6ebfb92f95e378eb8f4e78627e5be08313783ecb9186be4d95c44ef5e4ac9d",
+      "checked": "2026-11-24",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
     }
   },
   "initialized": true,
