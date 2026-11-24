@@ -1565,6 +1565,15 @@
       "checked": "2026-11-24",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "a44ad435346dafd0e9e6f2550dd216d00fa33b552343efbcbf3024c2c4de14b6": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20165%20OLIMPIADI%20DELLA%20MATEMATICA%20-%20FASE%20DISTITUTO.pdf",
+      "title": "CIRC 165 OLIMPIADI DELLA MATEMATICA - FASE DISTITUTO.pdf",
+      "date": "2026-11-24T00:00:00+00:00",
+      "sha256": "bdedcb99f375ad464bbb536298d3f0ab11946c767d08d8bf7614bb67176872c0",
+      "checked": "2026-11-24",
+      "decision": "include",
+      "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
     }
   },
   "initialized": true,
