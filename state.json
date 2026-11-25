@@ -1592,6 +1592,24 @@
       "checked": "2026-11-25",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "19e16ef5711c63ce8337713b2cee2bf3567e8602174c8ceae8847daf3c4e59fd": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20169%20ORARIO%20PERCORSI%20SECONDO%20LIVELLO%20DAL%2030%20NOVEMBRE%202026.pdf",
+      "title": "CIRC 169 ORARIO PERCORSI SECONDO LIVELLO DAL 30 NOVEMBRE 2026.pdf",
+      "date": "2026-11-25T00:00:00+00:00",
+      "sha256": "7b25d6dad0ce85ee769560de9ca5279102c096e30dcdddadacd2f8f19c168cb9",
+      "checked": "2026-11-25",
+      "decision": "exclude",
+      "reason": "Destinata ai corsi serali."
+    },
+    "c1b0bb45cf544e92b0d443bf77452bc7360c50d25760f3a057fbcf2a822233ab": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20168%20GIORNATA%20INTERNAZIONALE%20CONTRO%20LA%20VIOLENZA%20SULLE%20DONNE%20-%2025%20NOVEMBRE.pdf",
+      "title": "CIRC 168 GIORNATA INTERNAZIONALE CONTRO LA VIOLENZA SULLE DONNE - 25 NOVEMBRE.pdf",
+      "date": "2026-11-25T00:00:00+00:00",
+      "sha256": "d5042b178b41c0df06e81684c5e9b22d6c03ece641813d1eb0f9528dda65c848",
+      "checked": "2026-11-25",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
     }
   },
   "initialized": true,
