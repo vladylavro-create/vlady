@@ -1610,6 +1610,24 @@
       "checked": "2026-11-26",
       "decision": "review",
       "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "59c7e3a2071fc70e167a82b912648af0e64a6a6844102604fae4ef3f980b58c7": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20171%20USCITE%20DIDATTICHE%20DEL%2027_11_2026.pdf",
+      "title": "CIRC 171 USCITE DIDATTICHE DEL 27_11_2026.pdf",
+      "date": "2026-11-26T00:00:00+00:00",
+      "sha256": "4fb88e080f2d452ce0aafc52a3d11db53fd6177065d5e600eb3a492a8cfc14a5",
+      "checked": "2026-11-26",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "2b76d5d6c1dbf499b4d3977446cf7c8008fc93d9a0424410af7856e77fed2122": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20170%20CAMBIO%20AULA%20MOMENTANEO%20PER%20INAGIBILITA.pdf",
+      "title": "CIRC 170 CAMBIO AULA MOMENTANEO PER INAGIBILITA.pdf",
+      "date": "2026-11-26T00:00:00+00:00",
+      "sha256": "a09ee193dec48abee9d8edef5a0021c88f5d15471fcdeea712742afdf5ddc354",
+      "checked": "2026-11-26",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
     }
   },
   "initialized": true,
