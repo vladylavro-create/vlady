@@ -1628,6 +1628,78 @@
       "checked": "2026-11-27",
       "decision": "exclude",
       "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "0a14f738569e956bed0ffddd81b025b35727acda98a85560b45324fbc3ece29c": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20179%20CLASSI%20SECONDE%20ORIENTAMENTO%20SCELTA%20ARTICOLAZIONE%20-%202%20STEP.pdf",
+      "title": "CIRC 179 CLASSI SECONDE ORIENTAMENTO SCELTA ARTICOLAZIONE - 2 STEP.pdf",
+      "date": "2026-11-27T00:00:00+00:00",
+      "sha256": "f38cbd11957e7a5432cba736b1010a8d0f2a139c31b89c42c13d625611a591e5",
+      "checked": "2026-11-27",
+      "decision": "include",
+      "reason": "Riguarda le classi seconde."
+    },
+    "9d71796751ce6d93e24e4b7ea86e231eef4fb32934ee64f51fbe7cbf55f51e7a": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20178%20ORIENTAMENTO%20CASTELLI%20E%20BLAUMANN%20FOUNDATION.pdf",
+      "title": "CIRC 178 ORIENTAMENTO CASTELLI E BLAUMANN FOUNDATION.pdf",
+      "date": "2026-11-27T00:00:00+00:00",
+      "sha256": "44a48c6e14a8b4355cc095a30fd476d45ce9cc091994b905333e10dfb0893e00",
+      "checked": "2026-11-27",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altre classi specifiche."
+    },
+    "9b493d8d414ef88856166a7fbdea281ffef1c8a776fd02148e6538a922665b1e": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20177%20SCIOPERO%2004%20DICEMBRE%202026.pdf",
+      "title": "CIRC 177 SCIOPERO 04 DICEMBRE 2026.pdf",
+      "date": "2026-11-27T00:00:00+00:00",
+      "sha256": "14f59fd737eca045d5973d8b580db8adab1cedfe66bef89de9429db0d904362d",
+      "checked": "2026-11-27",
+      "decision": "include",
+      "reason": "Avviso di interesse generale per la vita scolastica."
+    },
+    "0597076128639a426999abe61b56d2d707fb8f64620efa293237a40a545964e1": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20176%20OLIMPIADI%20DI%20INFORMATICA%20INDIVIDUALI%20-%20SELEZIONE%20SCOLASTICA.pdf",
+      "title": "CIRC 176 OLIMPIADI DI INFORMATICA INDIVIDUALI - SELEZIONE SCOLASTICA.pdf",
+      "date": "2026-11-27T00:00:00+00:00",
+      "sha256": "571916db8f65dbef5585d913df64cb2b5a02037f93cd905466d196658af2ece3",
+      "checked": "2026-11-27",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altri anni di corso."
+    },
+    "ad777c90b7bb9340d45ec218873ee3f62a0535af656aae5fdb6f67882a5d73b4": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20175%20VALORIZZAZIONE%20DEL%20PATRIMONIO%20-%20INCONTRO%20DOCENTI%20.pdf",
+      "title": "CIRC 175 VALORIZZAZIONE DEL PATRIMONIO - INCONTRO DOCENTI .pdf",
+      "date": "2026-11-27T00:00:00+00:00",
+      "sha256": "6d423b85788df08fb56979a320b73525af90f29c479cb7b7d59c8534d593f3b0",
+      "checked": "2026-11-27",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "97044837ff4d00d96f856348e9f58fccad56731a5da9e7e8c3abb9c5e8361061": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20174%20CORSO%20BASE%20EPLAN%20ELECTRIC%20P8.pdf",
+      "title": "CIRC 174 CORSO BASE EPLAN ELECTRIC P8.pdf",
+      "date": "2026-11-27T00:00:00+00:00",
+      "sha256": "7452134de9aac5051436c3f30a1e55997e292ec0dbb10a9be6b6710e703ea93f",
+      "checked": "2026-11-27",
+      "decision": "exclude",
+      "reason": "Il contenuto riguarda altri anni di corso."
+    },
+    "9a00e3d932744ea34cdab77de6762efa1a0fa5e3003ad3121a0fc771963946d2": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20173%20INCONTRO%20DOCENTI%20SIO.pdf",
+      "title": "CIRC 173 INCONTRO DOCENTI SIO.pdf",
+      "date": "2026-11-27T00:00:00+00:00",
+      "sha256": "7156d4b4389a3d4a7cb659cc53383f8e8557766d13641193812e17f9e8f45c5a",
+      "checked": "2026-11-27",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "0624b33cd23d3a7cb21f82ba372e71ce8ac3e3621c2eeb4af4d01ac87dfb380c": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20172%20CLASSI%202%5E%20ORIENTAMENTO%20SCELTA%20ARTICOLAZIONE%201%20STEP.pdf",
+      "title": "CIRC 172 CLASSI 2^ ORIENTAMENTO SCELTA ARTICOLAZIONE 1 STEP.pdf",
+      "date": "2026-11-27T00:00:00+00:00",
+      "sha256": "34f3edf786a40761ca5acf459aafc40b25194956e5c03bef2c83bad966c85b3d",
+      "checked": "2026-11-27",
+      "decision": "include",
+      "reason": "Riguarda le classi seconde."
     }
   },
   "initialized": true,
