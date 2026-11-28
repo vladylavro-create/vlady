@@ -1700,6 +1700,24 @@
       "checked": "2026-11-28",
       "decision": "include",
       "reason": "Riguarda le classi seconde."
+    },
+    "28b1cb9a306d04c7cbd6cb96bef92b8fe3496ac303b178cea02970a4df178e15": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20180%20INGRESSO%20ALL%27ISTITUTO.pdf",
+      "title": "CIRC 180 INGRESSO ALL'ISTITUTO.pdf",
+      "date": "2026-11-28T00:00:00+00:00",
+      "sha256": "261076757decc02cb99a02c91a57dd2ecd51d5c7a7ecf23c5a903431be113d6a",
+      "checked": "2026-11-28",
+      "decision": "review",
+      "reason": "Possibile interesse: i destinatari non sono chiari; verifica il PDF."
+    },
+    "f434e50740eb3fdc8523a660fe0840af4dfb6cfb848f1e89acc48f38d4d603b8": {
+      "url": "https://www.iiscastelli.edu.it/Documents/circolari/CIRC%20165%20OLIMPIADI%20DELLA%20MATEMATICA%20-%20FASE%20D%27ISTITUTO.pdf",
+      "title": "CIRC 165 OLIMPIADI DELLA MATEMATICA - FASE D'ISTITUTO.pdf",
+      "date": "2026-11-24T00:00:00+00:00",
+      "sha256": "bdedcb99f375ad464bbb536298d3f0ab11946c767d08d8bf7614bb67176872c0",
+      "checked": "2026-11-28",
+      "decision": "include",
+      "reason": "Avviso agli studenti o alle famiglie senza restrizioni ad altre classi."
     }
   },
   "initialized": true,
